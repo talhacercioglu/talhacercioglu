@@ -64,13 +64,14 @@ Currently working on ERP & CRM solutions, API integrations, custom workflows, an
   />
 </p>
 
-### Language Distribution
+### Languages
 
 <p align="center">
   <img
     src="./assets/languages.dark.svg"
-    width="85%"
-    alt="GitHub Language Distribution"
+    width="70%"
+    alt="Language Statistics"
   />
 </p>
+
 
