@@ -56,6 +56,8 @@ Currently working on ERP & CRM solutions, API integrations, custom workflows, an
   />
 </p>
 
-
+<p align="center">
+  <i>Building solutions. Learning continuously. Improving every day.</i>
+</p>
 
 
