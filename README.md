@@ -2,7 +2,7 @@
 
 ### Software Engineer | Team Lead
 
-I’m a Computer Engineer focused on building software solutions, developing backend systems, and optimizing business processes.
+I'm a Computer Engineer focused on building software solutions, developing backend systems, and optimizing business processes.
 
 Currently working on ERP & CRM solutions, API integrations, custom workflows, and software development.
 
@@ -35,23 +35,15 @@ Currently working on ERP & CRM solutions, API integrations, custom workflows, an
 
 ### Tech Stack
 
-**Languages & Backend**
+**Languages:** Python · PHP · C# · C · Go · Swift · Java · R
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,php,cs,java,swift,go,dotnet,laravel" />
-</p>
+**Backend & Frameworks:** .NET · Flask · Symfony · Laravel
 
-**Databases & Tools**
+**Databases & Cloud:** MySQL · Firebase · AWS
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,git,github,docker,aws,firebase" />
-</p>
+**Data Science & AI:** TensorFlow · PyTorch · Keras · OpenCV · Scikit-learn · Pandas · NumPy · SciPy · Matplotlib · Plotly
 
-**Data Science & AI**
-
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,numpy,pandas" />
-</p>
+**Tools:** Git · GitHub · MLflow · Anaconda
 
 ---
 
@@ -59,7 +51,7 @@ Currently working on ERP & CRM solutions, API integrations, custom workflows, an
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=talhacercioglu&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=talhacercioglu&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=talhacercioglu&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" />
 </p>
 
 <p align="center">
