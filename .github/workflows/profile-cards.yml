@@ -1,0 +1,30 @@
+
+name: Generate Language Statistics
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Generate Language Card
+        uses: seijikohara/profile-cards-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: talhacercioglu
+          cards: languages
+          output-dir: assets
+          themes: dark
+          palette: blue
+          language-limit: 5
+          commit: true
