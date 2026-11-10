@@ -47,14 +47,30 @@ Currently working on ERP & CRM solutions, API integrations, custom workflows, an
 
 ---
 
+
 ### GitHub Statistics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=talhacercioglu&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="65%" />
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=talhacercioglu&show_icons=true&hide_border=true&bg_color=135,0f1c2e,173a5e&title_color=8fd3ff&text_color=d6ecff&icon_color=4f9dff"
+    width="65%"
+  />
 </p>
-
----
 
 <p align="center">
-  <i>Building solutions. Learning continuously. Improving every day.</i>
+  <img
+    src="https://streak-stats.demolab.com?user=talhacercioglu&theme=github-dark-blue&hide_border=true&background=0D1117"
+    width="65%"
+  />
 </p>
+
+### Language Distribution
+
+<p align="center">
+  <img
+    src="./assets/languages.dark.svg"
+    width="85%"
+    alt="GitHub Language Distribution"
+  />
+</p>
+
